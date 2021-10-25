@@ -3,7 +3,8 @@
 	"author": "raghav",
 	"description": "This project teaches me back end development",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment":"~1.2.8"
 	},
 	"keywords": [
 		"back-end",
