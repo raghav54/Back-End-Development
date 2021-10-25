@@ -1,15 +1,25 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "raghav",
+	"description": "This project teaches me back end development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"keywords": [
+		"back-end",
+		"github",
+		"node.js",
+		"freecodecamp"
+	],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+	"license": "Open-source",
+	"version": "1.0.0",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
 }
+
